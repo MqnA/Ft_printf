@@ -1,7 +1,7 @@
 ft_printf - @42Born2Code
 --------------------------
 
-My implementation of standart "printf" function on C language
+My implementation of standard "printf" function on C language
 
 -----------------------------------------------------------
 
